@@ -33,7 +33,7 @@ body {
 /*
     Change Dimensions Button
 */
-#dimensions {
+#dimensions, #reset {
     border: 2px solid black;
     border-radius: 8px;
     font-size: 12px;

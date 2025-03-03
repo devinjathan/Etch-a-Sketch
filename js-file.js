@@ -61,3 +61,9 @@ changeDim.addEventListener("click", function(){
     currDim = dim;
     makeGrid(currDim);
 });
+
+// Reset Grid
+const resetGrid = document.getElementById("reset");
+resetGrid.addEventListener("click", function(){
+    makeGrid(currDim);
+});

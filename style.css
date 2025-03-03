@@ -25,12 +25,6 @@ body {
 }
 
 /*
-    Header
-*/
-.Title {
-    border: 1px solid black;
-}
-/*
     Change Dimensions Button
 */
 #dimensions, #reset {
